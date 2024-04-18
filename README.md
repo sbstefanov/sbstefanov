@@ -1,9 +1,5 @@
 # Hi there, I'm Stefan Stefanov! 👋
 
-Welcome to my personal dashboard project!
-
-## About Me
-
 - 👨‍💻 My name is Stefan Stefanov, and I graduated from the NPG po KTS in Pravets, Bulgaria.
 - 🎓 Currently, I'm a student at the Technical University of Sofia.
 - 🌱 I'm passionate about learning new technologies and improving my skills. I have certifications in fundamentals and advanced JavaScript as well as a completed course in MySQL.
