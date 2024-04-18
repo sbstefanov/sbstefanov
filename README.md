@@ -1,7 +1,7 @@
 ### Hi there, I'm Stefan Stefanov! 👋
 
 ```javascript
-const stefan = {
+const stefan: Student = {
     name: "Stefan Stefanov",
     pronouns: "He" | "Him",
     education: ["NPG po KTS, Pravets, Bulgaria", "Technical University of Sofia"],
